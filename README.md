@@ -17,6 +17,6 @@ Go to your browser
 http://localhost:300
 ```
 
-
+![Coverage](https://i.ibb.co/18X5Kx1/coverage.jpg)
 
 
